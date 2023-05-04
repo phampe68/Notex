@@ -37,7 +37,7 @@
                         </leftBarButtonItems>
                     </navigationItem>
                     <connections>
-                        <outlet property="canvasView" destination="LcR-Qe-0Cx" id="yer-Ff-osL"/>
+                        <outlet property="canvasView" destination="LcR-Qe-0Cx" id="u2J-Ci-Ufo"/>
                         <outlet property="pencilFingerButton" destination="GNZ-XV-zER" id="kuO-2f-eid"/>
                     </connections>
                 </viewController>
